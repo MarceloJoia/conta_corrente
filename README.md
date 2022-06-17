@@ -3,3 +3,6 @@ Fazer um programa para ler os dados de uma conta bancária e depois realizar um 
 
 ## Modelo conceitual
 ![Mobile Home](https://github.com/MarceloJoia/conta_corrente/blob/main/assets/modelo-conceitual.jpg) 
+
+# Crédito
+Professor Nélio Alver: [DevSuperior](https://devsuperior.com "Site da DevSuperior").
