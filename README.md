@@ -5,4 +5,4 @@ Fazer um programa para ler os dados de uma conta bancária e depois realizar um 
 ![Mobile Home](https://github.com/MarceloJoia/conta_corrente/blob/main/assets/modelo-conceitual.jpg) 
 
 # Crédito
-Professor Nélio Alver: [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Professor Nélio Alver: [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
